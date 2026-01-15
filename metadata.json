@@ -1,0 +1,8 @@
+{
+  "name": "DELIMHUB - High Performance Project Ecosystem",
+  "description": "An enterprise-grade project management hub with role-specific dashboards, team analytics, Kanban workflows, and document management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
